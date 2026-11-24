@@ -9,6 +9,7 @@ I transform raw, messy datasets into automated data pipelines and executive-read
 [![GitHub](https://shields.io)](https://github.com/hellena278)
 [![Email](https://shields.io)](mailto:nrrhidyh@gmail.com)
 
+
 ---
 
 ### 🛠️ Technical Skills & Core Competencies
@@ -25,6 +26,7 @@ I transform raw, messy datasets into automated data pipelines and executive-read
 
 | Project | Tech Stack | Business Problem & Impact |
 | :--- | :--- | :--- |
+| **[Olist E-Commerce Analytics](https://github.com/hellena278/Olist-E-Commerce-Analytics)** | `Python` `SQL` `Power BI` | Built an end-to-end Python-to-MySQL 3-layer warehouse (`112K+` records) and 2-page Power BI dashboard uncovering **R$ 13.50M** net revenue, **93%** on-time delivery (`12 days` early avg), and peak-season shipping bottlenecks. .|
 | **[Online Retail End-to-End Analytics](https://github.com/hellena278/Online-Retail-End-to-End-Analytics-Project)** | `Python` `SQL` `Power BI` | Processed and analyzed **1M+ online retail transactions** from raw ingestion to an interactive Power BI dashboard, uncovering customer retention trends and revenue drivers. |
 | **[Bakehouse Medallion Pipeline](https://github.com/hellena278/bakehouse-medallion-pipeline)** | `Databricks` `PySpark` `Spark SQL` | Built an end-to-end Medallion Architecture data pipeline transforming raw franchise sales and customer reviews into curated tables for executive BI reporting. |
 | **[Malaysia Business Location Audit](https://github.com/hellena278/malaysia-business-location-audit)** | `Python` `Data Auditing` `Geospatial` | Conducted a data quality and accuracy audit on Malaysian business listings, evaluating source reliability, resolving inconsistencies, and improving location data integrity. |
