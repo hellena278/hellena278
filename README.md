@@ -1,4 +1,4 @@
-# Hi, I'm NurHidayah 👋
+# Hi, I'm NurHidayah 
 
 **Junior Data Analyst | Junior Data Engineer | Associate BI Analyst / Reporting Analyst**  
 📍 Terengganu, Malaysia (Open to Remote & Relocation)  
