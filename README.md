@@ -40,6 +40,7 @@ I transform raw, messy datasets into automated data pipelines and executive-read
 
 * **Google Data Analytics Professional Certificate** — Data Cleaning, SQL, R/Python, Tableau, Data-Driven Decision Making
 * **Databricks & Data Engineering Foundations** — Lakehouse Architecture, PySpark, Spark SQL, ETL Workflows
+* **freeCodeCamp: Data Analysis with Python** — Pandas, NumPy, Matplotlib, Statistical Analysis
 
 ---
 
