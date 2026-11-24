@@ -43,13 +43,6 @@ I transform raw, messy datasets into automated data pipelines and executive-read
 
 ---
 
-### 📊 GitHub Activity & Metrics
-
-![NurHidayah's GitHub Stats](https://vercel.app)
-![Top Languages](https://vercel.app)
-
----
-
 ### 📫 Let's Connect
 
 I am actively looking for opportunities in **Data Analytics**, **Data Engineering**, and **Business Intelligence**. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/nur-h-ab961821b/) or [Email](mailto:nrrhidyh@gmail.com), or explore my repositories above!
