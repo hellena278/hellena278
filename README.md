@@ -1,6 +1,6 @@
 # Hi, I'm NurHidayah 👋
 
-**Data Analyst | Junior Data Engineer | Business Intelligence Analyst**  
+**Junior Data Analyst | Junior Data Engineer | Associate BI Analyst / Reporting Analyst**  
 📍 Terengganu, Malaysia (Open to Remote & Relocation)  
 
 I transform raw, messy datasets into automated data pipelines and executive-ready dashboards that drive business decisions. Experienced in end-to-end ETL workflows, Databricks Medallion Architecture, SQL analytics, and BI storytelling across retail, geospatial, and operational datasets.
